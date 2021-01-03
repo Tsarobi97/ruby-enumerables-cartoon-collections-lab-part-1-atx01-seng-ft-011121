@@ -17,6 +17,13 @@ def list_dwarves(array)
   { |list_dwarves, index|
   
   }
+  
+  
+  
+  
+  
+  
+  
     
   # Use `each_with_index` to enumerate over the provided array
   #
