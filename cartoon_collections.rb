@@ -19,7 +19,7 @@ def list_dwarves(array)
   }
   
   
-  array.each_with_index {|value, index|}
+  array.each_with_index {|value, index| puts #{index}
   
   
   
