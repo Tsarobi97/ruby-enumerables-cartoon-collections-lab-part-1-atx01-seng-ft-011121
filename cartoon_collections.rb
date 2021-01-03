@@ -9,8 +9,8 @@ end
 end 
 
 def list_dwarves(array)
-array.each_with_index {|value, index| puts "#{index}#{value}";}
-  
+  array.each_with_index do |value, index|
+    puts "#{value}"
   
   
   
