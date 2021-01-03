@@ -9,17 +9,7 @@ end
 end 
 
 def list_dwarves(array)
-  array.each_with_index do |
-  
-  
-  
-  
-  { |list_dwarves, index|
-  
-  }
-  
-  
-  array.each_with_index {|value, index| puts "#{index} item is #{value}";}
+array.each_with_index {|value, index| puts "#{index} item is #{value}";}
   
   
   
